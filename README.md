@@ -4,6 +4,6 @@ Je suis un développeur amateur Python. Ici, je publie du code quand j'en ai l'e
 
 ## 🉐 • Mes projets officiels 
 | Nom | Description | Status | Projet OpenSource |
-|---|---|---|---|
+|---|---|:---:|:---:|
 | ask_lib |  Un package pypi simple, qui permet de demander la confirmation de l'utilisateur dans une CLI. | Ce projet n'est plus ma priorité. | ✅ |
 | Pix (nom provisoire) | Un bot Discord de modération, et bien plus encore. | Projet principal. | ❌ |
